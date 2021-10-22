@@ -1,0 +1,49 @@
+body {
+    background-color: #000;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.interruptor {
+    background-color: #eee;
+    width: 70px;
+    height: 70px;
+    box-shadow: 4px 4px 10px #2b2b2b;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.botao-on {
+    background-color: #6ff06f;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: #03491a;
+    box-shadow: 2px 2px 10px #2b2b2b;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botao-of {
+    background-color: #aa2424;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    color: #ffffff;
+    box-shadow: 2px 2px 10px #2b2b2b;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.informacao {
+    color: rgb(133, 133, 133);
+}
