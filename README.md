@@ -1,2 +1,2 @@
-# site-pessoal
-Uma pagina sobre mim.
+# projeto-acender-lampada
+Um simples progjeto para acender a lampada.
